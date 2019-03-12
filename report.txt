@@ -1,0 +1,29 @@
+STEPS:-
+1.COPY INSTRUCTION.TXT
+ $ git clone https://git hub.com/Kawaldeep18/MAD-CV-1896372.git
+2.COPY INSTRUCTION.TXT TO MAD-CV-1896372
+$ GIT CLONE HTTPS://GITHUB.COM/RICHBIGHOUSE/ MAD-314-CV-ASSIGNMENT.git
+3.ADD INSTRUCTION FILE USING:
+$ git add instruction.txt
+4.COMMIT CHANGES
+$ git commit -m “instruction.txt is committed”
+5.ADD CV USING:
+$git add RESUME.PDF
+6.COMMIT CHANGES
+$git commit -m “CV is committed”
+7.CREATE REPORT.TXT
+Vi report.txt
+8.ADD REPORT FILE USING:
+$git add report .txt
+9.COMMIT CHANGES
+$git commit -m “report.txt is committed”
+10.FETCH INFORMATION USING
+$git fetch
+11.PUSH FILES TO GIT HUB REPOSITORY
+$git push
+
+
+
+
+
+
