@@ -1,28 +1,36 @@
 FOLLOWING STEPS:-
-COPY instruction.txt
-$ git clone https://git hub.com/Kawaldeep18/MAD-CV-1896372.gitCOPY INSTRUCTION.TXT TO MAD-CV-1896372
-$ GIT CLONE HTTPS://GITHUB.COM/RICHBIGHOUSE/ MAD-314-CV-ASSIGNMENT.git
-ADD instruction file 
-$ git add instruction.txt
-COMMIT CHANGES
-$ git commit -m “instruction.txt is committed”
-ADD CV 
-$git add RESUME.PDF
-COMMIT CHANGES
-$git commit -m “CV is committed”
-CREATE report.txt
-Vi report.txt
-ADD report file
-$git add report .txt
-COMMIT CHANGES
-$git commit -m “report.txt is committed”
-FETCH INFORMATION 
-$git fetch
-PUSH FILES to GIT HUB REPOSITORY
-$git push
+
+PWD
+This command is used to check the current folder.
+COPY "instruction.txt".
+I used this command to view the instruction for my assignment.
+$GIT CLONE https://git hub.com/Kawaldeep18/MAD-CV-1896372.gitCOPY INSTRUCTION.TXT TO MAD-CV-1896372
+ 
+This command is used to create a copy of repository.
+$GIT CLONE HTTPS://GITHUB.COM/RICHBIGHOUSE/ MAD-314-CV-ASSIGNMENT.
+$GIT INIT
+This command is use to initialize a repository.
+MKDIR
+This command is used to make directory.
+CD DIR
+This command is used to change directory.
+$GIT STATUS
+This command is used for checking the status.
+$GIT 
+ADD -A
+This command is used to add all the files which are present in the repository
+$GIT COMMIT -m “CV is committed”
+
+This command is used to commit changes.
+$GIT COMMIT -m “report.txt is committed”
+
+This command is used to commit changes.
+$GIT PUSH
 
 
 
 
 
 
+
+This command push changes to repository.
